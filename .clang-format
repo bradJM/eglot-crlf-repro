@@ -1,5 +1,5 @@
 ---
-Language:        Cpp
-# BasedOnStyle:  LLVM
-UseCRLF:         true
-...
+Language:         Cpp
+BasedOnStyle:     LLVM
+DeriveLineEnding: false
+UseCRLF:          true
